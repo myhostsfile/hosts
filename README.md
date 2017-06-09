@@ -6,6 +6,6 @@ The only change in this file with the original post is the replacing of 127.0.0.
 To add this list to your adblocker, add the following list.
 
 
-<a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/myhostsfile/hosts/master/host&title=Adult Sites Filter">Adblock Filter</a>
+<a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/myhostsfile/hosts/master/host&title=Adult%20Sites%20Filter">Adblock Filter</a>
 
 <b>Note:</b> It is recommended to use this list as an Adblocker filter list in your browsers rather than to paste these in your hosts file because of performance issues.
