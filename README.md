@@ -3,9 +3,9 @@ Full credits to <a href="https://www.reddit.com/user/jacop_">jacop (the original
 
 The only change in this file with the original post is the replacing of 127.0.0.1 with 0.0.0.0 for better performance.
 
-To add this list to your adblocker, add the following list.
+To add this list to your adblocker click on the link below.
 
 
-[Parental Control](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/myhostsfile/hosts/master/host&title=Parental%20Control)
+[Subscribe to Parental Control](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/myhostsfile/hosts/master/host&title=Parental%20Control)
 
 <b>Note:</b> It is recommended to use this list as an Adblocker filter list in your browsers rather than to paste these in your hosts file because of performance issues.
